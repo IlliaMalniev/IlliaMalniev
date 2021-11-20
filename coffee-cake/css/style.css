@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.main__menu {
+    
+}
+
+.main__header {
+    text-align: center;
+    color: blueviolet;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.main__text {
+    text-align: center;
+    color: brown;
+}
+
+.main__img {
+    width: 800px;
+    margin-left: 350px;
+    margin-top: 30px;
+}
